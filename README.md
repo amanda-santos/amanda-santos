@@ -1,12 +1,10 @@
-<h2>✨ <i>Amanda Santos</i> ✨</h2>
-
+<h2>👩🏻‍💻 About Me</h2>
 <h3>Hi there! 👋 This is my profile!</h3>
 
 - 💬 I am a graduate student of Information Systems at IFMG (Federal Institute of Minas Gerais) and a Software Engineering Trainee at Pipefy.  
 - 👯 I'm looking foward to learn and improve my skills, collaborating especially with teams of front-end development and design.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/amandasf/).
 
-<h3>💻 Technologies & Tools</h3>
+<h2>💻 Technologies & Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -23,5 +21,16 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-santos&hide=html&layout=compact&theme=radical"/>
-<img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=amanda-santos&theme=radical"/>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanda-santos&show_icons=true&theme=dracula" alt="Amanda Santos github stats"/>
+</a>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-santos&layout=compact&theme=dracula&hide_langs_below=1" />
+</a>
+
+<h2>📫 How to reach me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/amandasf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="malito:amandasf0200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
