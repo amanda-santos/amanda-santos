@@ -26,8 +26,10 @@
 </a>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-santos&layout=compact&theme=dracula&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-santos&theme=dracula&hide_langs_below=1" />
 </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amanda-santos&theme=dracula" alt="amanda-santos" /></p>
 
 <h2>📫 How to reach me</h2>
 <p>
