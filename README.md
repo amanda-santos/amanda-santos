@@ -1,8 +1,8 @@
 <h2>👩🏻‍💻 About Me</h2>
 <h3>Hi there! 👋 This is my profile!</h3>
 
-- 💬 I am a graduate student of Information Systems at IFMG (Federal Institute of Minas Gerais) and a Software Engineering Trainee at Pipefy.  
-- 👯 I'm looking foward to learn and improve my skills, collaborating especially with teams of front-end development and design.
+- 💬 I am a graduate student of Information Systems at IFMG (Federal Institute of Minas Gerais) and a Frontend Developer at Pipefy.  
+- 👯 I'm looking foward to learn and improve my skills, collaborating especially with teams of frontend development and design.
 
 <h2>💻 Technologies & Tools</h2>
 <p>
