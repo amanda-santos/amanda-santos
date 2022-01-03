@@ -1,10 +1,10 @@
-<h2>💗 About Me</h2>
+<h2>💗 Who am I</h2>
 <h3>Hi there! 👋 This is my profile!</h3>
 
 - 💬 I am a graduate student of Information Systems at IFMG (Federal Institute of Minas Gerais) and a Frontend Developer at Pipefy.  
 - 👯 I'm looking foward to learn and improve my skills, collaborating especially with teams of frontend development and design.
 
-<h2>💻 Technologies & Tools</h2>
+<h2>💻 Technologies & Tools I've been using</h2>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
