@@ -1,4 +1,4 @@
-<h2>💗 About Me</h2>
+<h2>⚡ About Me</h2>
 <h3>Hi there! 👋 This is my profile!</h3>
 
 - 💬 I am a graduate student of Information Systems at IFMG (Federal Institute of Minas Gerais) and a Frontend Developer at Pipefy.  
