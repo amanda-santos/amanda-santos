@@ -1,8 +1,9 @@
 <h2>⚡ About Me</h2>
 <h3>Hi there! 👋 This is my profile!</h3>
 
-- 💬 I am a graduate student of Information Systems at IFMG (Federal Institute of Minas Gerais) and a Frontend Developer at Pipefy.  
-- 👯 I'm looking foward to learn and improve my skills, collaborating especially with teams of frontend development and design.
+- ✨ I'm a Front-End Developer with 3+ years of experience in the area. I have worked closely with agile teams, developing highly complex features with the latest cutting-edge development tools and procedures, like React, Typescript, Next.js, GraphQL, and Apollo GraphQL; I have also worked with Design Systems, using them and maintaining them with tools like Storybook. 
+
+- 👩‍💻 Currently I am working at Pipefy as a Front-End Engineer.
 
 <h2>💻 Technologies & Stats</h2>
 <p>
