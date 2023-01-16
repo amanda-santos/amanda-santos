@@ -10,7 +10,7 @@ In my spare time, you can probably find me reading fantasy novels and drinking a
 
 Feel free to send a message if you want to know more about me. I am always eager to hear from others and expand my network here.✨
 
-<h2>💻 Technologies I have worked with:</h2>
+<h2>💻 Technologies:</h2>
 
 <h4>📄 Languages:</h4>
 <p>
