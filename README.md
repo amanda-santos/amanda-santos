@@ -1,6 +1,6 @@
 <h2>⚡ About Me</h2>
 
-<img align="right" height="500em" src="https://user-images.githubusercontent.com/49074930/218207579-957ceabf-ac69-4bc5-9c53-c37e1f7a3c52.png"/>
+<img align="right" height="500em" src="https://user-images.githubusercontent.com/49074930/218208989-63910d6d-e142-45dd-92c1-dbc8de4cb079.png"/>
 
 <p>
 Hi there! 👋🏼
