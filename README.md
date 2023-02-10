@@ -7,7 +7,7 @@ Hi there! 👋🏼
 
 I have been working as a front-end engineer for about 4 years. I’m passionate about software development, problem-solving and technology. I’m always looking forward to learning more and improving my skills.
 
-Currently employed as a software engineer at Pipefy, I work closely with agile teams, developing complex features with the latest cutting-edge development tools and procedures, like React, Typescript, Next.js, GraphQL, and Apollo GraphQL; I have also worked with Design Systems, using them and maintaining them with tools like Storybook.
+Currently employed as a software engineer at Pipefy, I work closely with agile teams, developing complex features with the latest cutting-edge development tools and procedures.
 
 In my spare time, you can probably find me reading fantasy novels and drinking a cup of tea. 🌃
 
