@@ -1,6 +1,6 @@
 <h2>⚡ About Me</h2>
 
-<img align="right" height="500em" min-width="500em" src="https://user-images.githubusercontent.com/49074930/218208989-63910d6d-e142-45dd-92c1-dbc8de4cb079.png"/>
+<img align="right" height="500em" style="object-fit: cover;" src="https://user-images.githubusercontent.com/49074930/218208989-63910d6d-e142-45dd-92c1-dbc8de4cb079.png"/>
 
 <p>
 Hi there! 👋🏼
@@ -9,7 +9,7 @@ I have been working as a front-end engineer for about 4 years. I’m passionate 
 
 Currently employed as a software engineer at Pipefy, I work closely with agile teams, developing complex features with the latest cutting-edge development tools and procedures.
 
-In my spare time, you can probably find me reading fantasy novels and drinking a cup of tea. 🌃
+In my spare time, you can find me reading fantasy novels and drinking a cup of tea. 🌃
 
 Feel free to send a message if you want to know more about me. I am always eager to hear from others and expand my network here.✨
 </p>
