@@ -3,7 +3,7 @@
 <p align="left"> 
   Hi there! 👋🏼
 
-  I have been working as a front-end engineer for about 4 years. I’m passionate about software development, problem-solving and technology. I’m always looking forward to learning more and improving my skills.
+  I have been working as a front-end engineer for about 5 years. I’m passionate about software development, problem-solving and technology. I’m always looking forward to learning more and improving my skills.
 
   Currently employed as a software engineer at [Efí Bank](https://sejaefi.com.br/), I work closely with agile teams, developing complex features with the latest cutting-edge development tools and procedures.
 
